@@ -4,7 +4,7 @@ A modern, professional portfolio website showcasing Team 12's expertise in web d
 
 ## 🌟 Live Demo
 
-Visit our portfolio: **[https://suganrajtech-jpg.github.io/NM-PORTFOLIO-/](https://suganrajtech-jpg.github.io/NM-PORTFOLIO-/)**
+Visit our portfolio: **[https://suganrajtech-jpg.github.io/NM-PORTFOLIO-/](https://sugan404-jpg.github.io/NM-PORTFOLIO-/)**
 
 ## 🚀 Features
 
